@@ -9,7 +9,7 @@ function Home() {
       <div className="text-md green-base roboto">
       Hi, my name is
       </div>
-      <div className="text-4xl extra-bold green-light spacing">Kelly Rivas</div>
+      <div className="text-4xl extra-bold green-light spacing">Kelly Rivas.</div>
       <p className="text-4xl extra-bold gray spacing">I build digital products.</p>
       <p className="text-lg green-light description-spacing">
       I'm a software engineer based in Charlotte, NC specializing in building websites, applications, and everything in between.
