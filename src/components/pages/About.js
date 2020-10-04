@@ -3,7 +3,7 @@ import React from "react";
 
 function About() {
   return (
-    <div>
+    <div className="m-20">
       <div className="text-2xl semi-bold green-light"><span className="number green-base text-lg roboto">01.</span>About</div>
         <div className="flex">
           <div className="col">
