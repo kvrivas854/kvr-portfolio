@@ -1,11 +1,11 @@
-## Portfolio
+# Portfolio
 
 ---
 ## Table of contents:
-# 01. Home
-# 02. About
-# 03. Projects
-# 04. Contact
+### 01. Home
+### 02. About
+### 03. Projects
+### 04. Contact
 
 This portfolio is a mobile-responsive website built with react. 
 
