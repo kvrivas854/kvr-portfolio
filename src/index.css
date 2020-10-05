@@ -219,6 +219,9 @@ padding: 16px 24px;
 .mobile-nav, .menu {
   display: none;
 }
+.menu {
+  display: none;
+}
 
 /* tablet styling */
 @media (max-width: 768px) {
