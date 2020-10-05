@@ -31,7 +31,6 @@ background-color: var(--green-light);
   }
   .box-container {
     position: relative; 
-    width: 318px;
     height:318px;
     display: flex;
     align-items: center;
@@ -42,11 +41,10 @@ background-color: var(--green-light);
 
 }
 .box-container:hover {
-  border: solid;
-  border-color:var(--green-base);
+  background-color: rgba(0,0,0,.5);
+  cursor: pointer;
 }
 .box-container::before {
-  
   content: "";
   background-image: url("headshot.png");
   background-size: cover;
@@ -61,12 +59,13 @@ background-color: var(--green-light);
 
  
 .card-text {
-  position: relative;
-  color: #ffffff;  
-  line-height: 0.9;
-  text-align: center;
+  color: var(--green-light);
+  line-height: 1.1;
   padding: 20px;
   text-decoration: none;
+}
+.card-text, a, p {
+  text-align: center;
 }
 a:link {
   text-decoration: none;
@@ -75,6 +74,16 @@ a:link {
   margin: 70px 20px 0px 20px;
 }
 
+ul.p-none {
+  padding: none;
+}
+li { 
+padding-right:24px
+
+}
+/* li { 
+  margin: 24px 24px 16px 24px;
+} */
 /*  */
   
   /* Bottom right text
