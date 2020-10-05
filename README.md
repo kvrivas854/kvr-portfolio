@@ -1,17 +1,16 @@
 # Portfolio
 
----
 ## Table of contents:
 
 - Overview
 - Notes
 - Credits
 
-## Overview:
+### Overview:
 
 This portfolio is a mobile-responsive website built with react. 
 
-## Notes:
+### Notes:
 - This portfolio was styled with custom built css styles.
 
 Domain
