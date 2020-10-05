@@ -19,8 +19,8 @@ render() {
       <div>
         <Navbar />
         <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
         <Route exact path="/projects" component={Project} />
+        <Route exact path="/about" component={About} />
         <Route exact path="/contact" component={Contact} />
         <Route path="/experience" component={Experience} />
         <Footer />

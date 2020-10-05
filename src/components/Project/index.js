@@ -4,7 +4,7 @@ import "./style.css";
 function Project() {
     return (
     <section className="project m-20">
-        <h1 className="text-2xl semi-bold green-light"><span className="number green-base text-lg roboto">02.</span>Projects</h1>
+        <h1 className="text-2xl semi-bold green-light"><span className="number green-base text-lg roboto">01.</span>Projects</h1>
         <div className="flex">
             <div className="col">
                 <div className="box-container">

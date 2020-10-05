@@ -20,18 +20,18 @@ function NavTabs() {
           </div>
         <ul className="nav nav-tabs flex text-sm">
           <li className="nav-item hover">
-            <Link
-              to="/about"
-              className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
-                About
-            </Link>
-          </li>
-          <li className="nav-item hover">
-            <Link to="/projects"
-              className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}>
-              Projects
-            </Link>
-          </li>
+              <Link to="/projects"
+                className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}>
+                Projects
+              </Link>
+            </li>
+            <li className="nav-item hover">
+              <Link
+                to="/about"
+                className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
+                  About
+              </Link>
+            </li>
           <li className="nav-item hover">
             <Link
               to="/contact"
