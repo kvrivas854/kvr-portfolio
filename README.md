@@ -7,6 +7,8 @@
 ### 03. Projects
 ### 04. Contact
 
+## User Story:
+
 This portfolio is a mobile-responsive website built with react. 
 
 If you have any questions, feel free to contact me at kellyv.rivas@gmail.com
