@@ -12,12 +12,12 @@ function Project() {
                     <a rel="noopener noreferrer" target="_blank" className="text-xl green-base semi-bold" href="https://kvrivas854.github.io/brewery-map/">Brewery Maps</a>
                     <p className='text-md green-light'>Brewery map is an application that maps breweries by specific locations entered by the end user. Users can search by zip code and be presented with a list of local breweries to visit.</p>
                     <ul className="text-md roboto green-light">
-                        <div className="flex force-flex">
+                        <div className="flex force-flex j-center-mobile">
                         <li className="list-item">HTML</li>
                         <li className="list-item">CSS</li>
                         <li className="list-item">JavaScript</li>
                         </div>
-                        <li className="flex list-item">Open Brewery DB</li>
+                        <li className="flex list-item force-flex j-center-mobile">Open Brewery DB</li>
                     </ul>
                     <a rel="noopener noreferrer" href="https://github.com/kvrivas854" className="flex-center">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -32,7 +32,7 @@ function Project() {
                     <a rel="noopener noreferrer" target="_blank" className="text-xl green-base semi-bold" href="https://github.com/kvrivas854/Employee-Tracker.git">Employee Tracker</a>
                     <p className="text-md green-light">Employee tracking is a backend manager that utilizes inquirer, MySQL database, and Node.</p>
                     <ul className="text-md roboto green-light">
-                        <div className="flex force-flex">      
+                        <div className="flex force-flex j-center-mobile">      
                             <li className="list-item">Inquirer</li>
                             <li className="list-item">MySQL</li>
                             <li className="list-item">Node</li>
@@ -52,12 +52,12 @@ function Project() {
                 <div className="card-text">
                     <a rel="noopener noreferrer" target="_blank" className="text-xl green-base semi-bold" href="https://kvrivas854.github.io/musicFinder/">Music Finder</a>
                     <p className='text-md green-light'>With this simple application you can easily search for Artist, Album Title, or Song Name. You can then proceed to add the song of your choice to your own personal playlist. If you need ideas for good songs we have a chart of the daily top songs.</p>
-                    <ul className="mobile-flex text-md roboto green-light">
-                        <div className="flex force-flex">
+                    <ul className="text-md roboto green-light">
+                        <div className="flex force-flex j-center-mobile">
                                 <li className="list-item">Deezer API</li>
                                 <li className="list-item"> Handlebars</li>
                             </div>
-                            <div className="flex force-flex">
+                            <div className="flex force-flex j-center-mobile">
                                 <li className="list-item">MySQL + Sequelize</li>
                                 <li className="list-item">Express</li>
                             </div>
@@ -74,8 +74,8 @@ function Project() {
                     <div className="card-text">
                     <a rel="noopener noreferrer" target="_blank" className="text-xl green-base semi-bold" href="https://kvrivas854.github.io/day-planner/">Workday Scheduler</a>
                         <p className='text-md green-light'>This app is a fully functional and responsive "Day Planner" You are able to keep track of all of your meetings, appointments, and events every single day. Once you add what you would like to each time block, it saves it in a local storage, so that your data doesn't go away.</p>
-                        <ul className="mobile-flex text-md roboto green-light">
-                            <div className="flex force-flex">
+                        <ul className="text-md roboto green-light">
+                            <div className="flex force-flex j-center-mobile">
                                 <li className="list-item">JQuery</li>
                                 <li className="list-item">CSS</li>
                                 <li className="list-item">HTML</li>

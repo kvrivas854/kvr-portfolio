@@ -271,5 +271,8 @@ padding: 16px 24px;
 .force-flex {
   display: flex;
 }
+.j-center-mobile{
+  justify-content: center;
+}
 }
 

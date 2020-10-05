@@ -1,8 +1,4 @@
-@media only screen and (max-width: 768px) {
-.flex {
-  display: flex;
-}
-}
+
   section {
     max-width: 1000px;
   }
@@ -51,12 +47,9 @@ a:link {
   margin: 70px 20px 0px 20px;
 }
 
-ul.p-none {
-  padding: none;
-}
+
 li { 
 padding-right:24px
-
 }
 
 
