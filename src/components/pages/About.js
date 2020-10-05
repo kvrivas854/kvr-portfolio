@@ -7,12 +7,12 @@ function About() {
       <div className="text-2xl semi-bold green-light"><span className="number green-base text-lg roboto">01.</span>About</div>
         <div className="flex">
           <div className="col">
-            <p className="text-lg green-light semi-bold">
+            <p className="text-lg green-light">
                Hello! I'm Kelly, a software engineer based in Charlotte, NC.
             </p>
-            <p className="text-lg green-light semi-bold">I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I prefer to keep learning, continue challenging myself, and do interesting things that matter.</p>
-            <p className="text-lg green-light semi-bold">Shortly after graduating from <span className="green-base">University of North Carolina at Charlotte Coding Bootcamp</span>, I joined the engineering team at  <span className="green-base">Progress</span>.</p>
-            <p className="text-lg green-light semi-bold">Here are a few technologies I've been working with recently:</p> 
+            <p className="text-lg green-light">I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I prefer to keep learning, continue challenging myself, and do interesting things that matter.</p>
+            <p className="text-lg green-light">Shortly after graduating from <a className="green-base" rel="noopener noreferrer" href="https://bootcamp.uncc.edu/coding/">University of North Carolina at Charlotte Coding Bootcamp</a>, I joined the engineering team at  <a className="green-base" rel="noopener noreferrer" href="http://joinprogress.com/">Progress</a>.</p>
+            <p className="text-lg green-light">Here are a few technologies I've been working with recently:</p> 
             <div className="flex green-light">
             <div className="col">
               <p className="list-item">

@@ -7,6 +7,7 @@ import About from "./components/pages/About";
 import Project from "./components/Project/index";
 import Contact from "./components/Contact/index";
 import Experience from "./components/Experience/index";
+import Footer from "./components/Footer/index";
 
 
 
@@ -22,8 +23,10 @@ render() {
         <Route exact path="/projects" component={Project} />
         <Route exact path="/contact" component={Contact} />
         <Route path="/experience" component={Experience} />
+        <Footer />
       </div>
     </Router>
+    
     </div>
     
   );
