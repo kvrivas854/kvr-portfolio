@@ -108,6 +108,10 @@ font-size: 17px;
 .flex-wrap {
   flex-wrap: wrap;
 }
+.flex-center {
+display:flex;
+justify-content:center;
+}
 .justify-end {
   align-content: flex-end;
 }

@@ -1,31 +1,8 @@
-/* .box-container {
-
-width: 484px;
-height: 286px;
-opacity: 0.03;
-background-color: var(--green-light);
-
+@media only screen and (max-width: 768px) {
+.flex {
+  display: flex;
 }
-
-.box-container img {
-    vertical-align: middle;
-    background-position: cover;
 }
-
-/* .photo-background {
-    background-image: 
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
-
-/* .box-container .content {
-
-    bottom: 0;
-    background-image: url("headshot.png");
-    width: 100%;
-    padding: 20px;
-  } */ 
-  /* Container holding the image and the text */
   section {
     max-width: 1000px;
   }
@@ -64,9 +41,9 @@ background-color: var(--green-light);
   padding: 20px;
   text-decoration: none;
 }
-.card-text, a, p {
+/* .card- {
   text-align: center;
-}
+} */
 a:link {
   text-decoration: none;
 }
@@ -81,6 +58,8 @@ li {
 padding-right:24px
 
 }
+
+
 /* li { 
   margin: 24px 24px 16px 24px;
 } */
