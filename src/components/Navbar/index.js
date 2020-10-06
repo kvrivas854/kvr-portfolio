@@ -43,11 +43,6 @@ function NavTabs() {
       </div>
       <div className="flex roboto mobile-nav">
         <ul className="nav-tabs flex text-sm">
-          <li className="nav-item hover">
-            <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-              Home
-            </Link>
-           </li>
             <li className="nav-item hover">
               <Link
                 to="/about"
